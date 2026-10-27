@@ -13,7 +13,7 @@ cluster with its leader on the second server).
 | APMBlaze | 2026.10.27.02 | 495c5e6d9d64ab2eae9ac839c45ae0b9c6baaaa0dfe10f6767ed7e02b7b8a8ed |
 | DnsBlaze | 2026.10.27.03 | 25069663f3ae596613d2bb10fbb6998e94c6775ff7fe55691321f1e2fed31a63 |
 
-User guides: attached to the release `v2026.10.16`.
+Bundles: NetBlaze on this release `v2026.10.17`; the other tools and BlazeManager 2026.10.27.06 on `v2026.10.15`. The manifest links to each.
 
 BlazeManager: 2026.10.27.06 or later.
 
