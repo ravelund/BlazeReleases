@@ -1,0 +1,80 @@
+{
+  "stack": "Blaze 2026.10.23",
+  "tools": [
+    {
+      "name": "authblaze",
+      "version": "2026.10.30.01",
+      "bundle": "authblaze-2026.10.30.01.tar.gz",
+      "sha256": "09b712ec01345c53c07668c58c838a51bc3e899578f7ad2d39745be0cc5c51d5",
+      "url": "https://github.com/ravelund/BlazeReleases/releases/download/v2026.10.23/authblaze-2026.10.30.01.tar.gz",
+      "capabilities": [
+        "subnet-move",
+        "trusted-cas",
+        "syslog"
+      ]
+    },
+    {
+      "name": "proxyblaze",
+      "version": "2026.10.31",
+      "bundle": "proxyblaze-2026.10.31.tar.gz",
+      "sha256": "7dd80e44391ece28968c86642ebcd20123a7565bb1abc67e5fac2175307b6238",
+      "url": "https://github.com/ravelund/BlazeReleases/releases/download/v2026.10.23/proxyblaze-2026.10.31.tar.gz",
+      "capabilities": [
+        "subnet-move",
+        "trusted-cas",
+        "edge-groups",
+        "syslog"
+      ]
+    },
+    {
+      "name": "certblaze",
+      "version": "2026.10.31",
+      "bundle": "certblaze-2026.10.31.tar.gz",
+      "sha256": "c8cc452627a76a0a438e96385f1334b5dc069cf6e685e8eadb132469ffddb649",
+      "url": "https://github.com/ravelund/BlazeReleases/releases/download/v2026.10.23/certblaze-2026.10.31.tar.gz",
+      "capabilities": [
+        "subnet-move",
+        "trusted-cas",
+        "syslog"
+      ]
+    },
+    {
+      "name": "netblaze",
+      "version": "2026.10.31",
+      "bundle": "netblaze-2026.10.31.tar.gz",
+      "sha256": "834d626e29358d5da07132c0294779277fa90677663fe2f33fd93c6630bc80ce",
+      "url": "https://github.com/ravelund/BlazeReleases/releases/download/v2026.10.23/netblaze-2026.10.31.tar.gz",
+      "capabilities": [
+        "subnet-move",
+        "trusted-cas",
+        "syslog"
+      ]
+    },
+    {
+      "name": "apmblaze",
+      "version": "2026.10.31.01",
+      "bundle": "apmblaze-2026.10.31.01.tar.gz",
+      "sha256": "44e63ecf6162b05a8ac56078c05eb7f1705ee5c8ff71a10c4cd410163cad5bfc",
+      "url": "https://github.com/ravelund/BlazeReleases/releases/download/v2026.10.23/apmblaze-2026.10.31.01.tar.gz",
+      "capabilities": [
+        "subnet-move",
+        "trusted-cas",
+        "syslog"
+      ]
+    },
+    {
+      "name": "dnsblaze",
+      "version": "2026.10.31",
+      "bundle": "dnsblaze-2026.10.31.tar.gz",
+      "sha256": "db8ab3e381426a96a019e2db51f4480de8103adc72fd87ba1676f8f43face88e",
+      "url": "https://github.com/ravelund/BlazeReleases/releases/download/v2026.10.23/dnsblaze-2026.10.31.tar.gz",
+      "capabilities": [
+        "subnet-move",
+        "trusted-cas",
+        "syslog"
+      ]
+    }
+  ],
+  "images": [],
+  "blazemanager": "2026.10.31.01"
+}
