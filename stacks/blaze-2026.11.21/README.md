@@ -1,8 +1,8 @@
 # Blaze 2026.11.21
 
-**Blaze 2026.11.18 plus NetBlaze 2026.11.16: small but important NetBlaze fixes. BlazeManager 2026.11.15.06.**
+**Blaze 2026.11.19 plus NetBlaze 2026.11.16: small but important NetBlaze fixes. BlazeManager 2026.11.15.06.**
 NetBlaze built and Trivy-scanned on the build server (0 HIGH/CRITICAL), signed on the release PC.
-Tested in the lab (light test, NetBlaze's install files unchanged): the two-server lab stack on 2026.11.18 updated to this
+Tested in the lab (light test, NetBlaze's install files unchanged): the two-server lab stack on 2026.11.18 (= GitHub 2026.11.19) updated to this
 stack, NetBlaze healthy, ProxyBlaze export identical, sign-in by pressing NetBlaze's button 6× for a normal user and a user
 in 1,000 groups, all 30 NetBlaze pages with no CSP violation or console error.
 
